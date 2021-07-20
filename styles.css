@@ -7,6 +7,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 40px;
+    background-color: #1a1a1a;
 }
 main{
     max-width: 6900px;
